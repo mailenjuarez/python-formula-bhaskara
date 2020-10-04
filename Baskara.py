@@ -43,5 +43,3 @@ def funcion_bhaskara():
             print("Debe colocar un numero, intente nuevamente")
 
 funcion_bhaskara()
-
-time.sleep(1)
